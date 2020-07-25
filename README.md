@@ -2,7 +2,6 @@
 
 You can make real-time chat application with socket io / express (backend) and reactjs for front end. 
 
---Still developing.
 
 
 # Credit : JavaScript Mastery - Youtube Channel
